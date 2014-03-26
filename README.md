@@ -10,4 +10,4 @@ https://github.com/alexchonglian/AmexOwnerWebClient
 
 https://github.com/alexchonglian/AmexCustomerMobileClient
 
-[Owner Web Client Prototype](..//AmexOwnerWebClientDemo)
+[Owner Web Client Prototype](../../AmexOwnerWebClientDemo)
