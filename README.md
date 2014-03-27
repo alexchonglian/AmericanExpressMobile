@@ -5,8 +5,8 @@ AmericanExpressMobile
 Spring2014 AMEX InfoTechProjet
 
 
-[ > Owner Web Client Prototype](../../../AmexOwnerWebClientDemo)
+[ > Owner Web Client Prototype](https://github.com/alexchonglian/AmexOwnerWebClientDemo)
 
-[ > Owner Web Client](../../../AmexOwnerWebClient)
+[ > Owner Web Client](https://github.com/alexchonglian/AmexOwnerWebClient)
 
-[ > Customer Mobile Client](../../../AmexCustomerMobileClient)
+[ > Customer Mobile Client](https://github.com/alexchonglian/AmexCustomerMobileClient)
